@@ -5,10 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="34d5854c-e499-44e4-a745-63204b5d3d54" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/components/error-message/ErrorMessage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/error-message/error.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/spinner/spinner.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/randomChar/RandomChar.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/randomChar/RandomChar.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/randomChar/randomChar.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/randomChar/randomChar.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/services/MarvelService.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/services/MarvelService.js" afterDir="false" />
     </list>
@@ -45,8 +47,8 @@
     "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/ustin/WebstormProjects/marvel-api/public",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -58,7 +60,11 @@
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\ustin\WebstormProjects\marvel-api\public" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\ustin\WebstormProjects\marvel-api\src\components\error-message" />
       <recent name="C:\Users\ustin\WebstormProjects\marvel-api\src" />
       <recent name="C:\Users\ustin\WebstormProjects\marvel-api" />
     </key>
@@ -73,7 +79,7 @@
       <updated>1670060121262</updated>
       <workItem from="1670060122403" duration="1148000" />
       <workItem from="1670061315264" duration="985000" />
-      <workItem from="1670143386483" duration="4924000" />
+      <workItem from="1670143386483" duration="9089000" />
     </task>
     <servers />
   </component>
